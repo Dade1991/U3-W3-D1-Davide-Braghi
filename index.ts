@@ -192,3 +192,5 @@ console.log(myAuto)
 // Si possiamo utilizzare praticamente infiniti GENERICS (Generalmente si utilizzano le parole in maiuscolo dell'alfabeto A, B, C, D, E, etc.)
 
 // 20) Crea un'interfaccia generica per una risposta API.
+
+Non ho capito bene cosa bisogna fare. Copilot mi ha fatto esempi non realistici.
