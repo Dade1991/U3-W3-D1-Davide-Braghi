@@ -193,4 +193,4 @@ console.log(myAuto)
 
 // 20) Crea un'interfaccia generica per una risposta API.
 
-Non ho capito bene cosa bisogna fare. Copilot mi ha fatto esempi non realistici.
+// Non ho capito bene cosa bisogna fare. Copilot mi ha fatto esempi non realistici.
